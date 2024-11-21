@@ -29,10 +29,10 @@ title: Clarity in Complexity: Jameelah N Mercer, Technical Writer
 email: inscriptivops@gmail.com
 description: I believe that clear communication is key to transforming complex technical concepts into accessible, actionable insights.With my technicalbackground in computer science, DevOps, machine learning, and mathematics, Ibring a unique perspective to technical documentation. My goal is to empowerteams and translate complex technical ideas into straightforward, meaningfullanguage that anyone can understand.
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/InscriptivOps/myblog"
+url: " https://meelahme.github.io/InscriptivOps/" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  meelahme
+github_username: meelahme
 
 # Build settings
 #theme: minima
